@@ -1,0 +1,86 @@
+/* Body & Global*/
+ body {
+   text-align: center;
+ }
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.container-fluid {
+  padding: 4% 12%;
+}
+
+.color-section {
+  background-color: #f5f5f5;
+}
+
+.nav-link{
+  color: #3fc1c9;
+}
+
+/* Images  */
+
+.avatar-img {
+  width: 100px;
+  border-radius: 50%;
+}
+
+.title-img {
+  width: 50px;
+}
+
+/* Title */
+
+.big-heading {
+  font-size: 4rem;
+  color: #71c9ce;
+}
+
+.title-panel {
+  margin: 2% 10%;
+}
+
+
+.title-icon {
+  color: #71c9ce;
+}
+
+
+/* Experience */
+.divider {
+  color: #00adb5;
+
+}
+.exp-heading {
+  margin: 5%;
+  font-size: 3rem;
+}
+
+.exp-content {
+  text-align: left;
+}
+
+.exp-panel {
+  margin-bottom: 5%;
+}
+
+.exp-type-heading {
+  font-size: 2rem;
+}
+
+/* Contact */
+
+.icon-refer{
+  text-align: right;
+  font-size: 0.5rem;
+}
+
+.contact-icon {
+  margin: 1%;
+  color: #71c9ce;
+}
