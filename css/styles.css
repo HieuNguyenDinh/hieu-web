@@ -84,3 +84,14 @@ p {
   margin: 1%;
   color: #71c9ce;
 }
+
+
+/* Mobile Viewport */
+@media (max-width: 837px){
+  .exp-content {
+    text-align: center;
+  }
+  .content {
+    display: none;
+  }
+}
