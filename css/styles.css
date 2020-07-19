@@ -93,11 +93,16 @@ p {
   text-align: right;
   font-size: 0.5rem;
   margin-bottom: 0;
+  display: inline-block;
 }
 
 .contact-icon {
   margin: 1%;
   color: #71c9ce;
+}
+
+.icon-refer-box {
+  text-align: right;
 }
 
 #contact {
