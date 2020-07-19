@@ -108,7 +108,7 @@ p {
 /* Mobile Viewport */
 @media (max-width: 837px){
   .exp-content {
-    text-align: center;
+    text-align: left;
   }
   .content {
     display: none;
