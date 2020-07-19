@@ -55,7 +55,6 @@ p {
   color: #f0f5f9;
 }
 
-
 /* Experience */
 
 #experience {
@@ -77,6 +76,10 @@ p {
 
 .exp-panel {
   margin-bottom: 5%;
+}
+
+.exp-title {
+  text-align: left;
 }
 
 .exp-type-heading {
