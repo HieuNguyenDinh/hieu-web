@@ -36,7 +36,10 @@ p {
 .big-heading {
   font-size: 4rem;
   color: #f0f5f9;
+}
 
+.title-text {
+  color: #dbe2ef;
 }
 
 .title-panel {
@@ -59,12 +62,13 @@ p {
   background-color: #f9f7f7;
 }
 .divider {
-  color: #00adb5;
+  color: #71c9ce;
 
 }
 .exp-heading {
   padding: 5%;
   font-size: 3rem;
+  color: #00adb5;
 }
 
 .exp-content {
@@ -77,6 +81,7 @@ p {
 
 .exp-type-heading {
   font-size: 2rem;
+  color: #71c9ce;
 }
 
 /* Contact */
